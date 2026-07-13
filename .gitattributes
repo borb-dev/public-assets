@@ -1,0 +1,2 @@
+definitions.jsonl.gz filter=lfs diff=lfs merge=lfs -text
+filtered_words.txt.gz filter=lfs diff=lfs merge=lfs -text
